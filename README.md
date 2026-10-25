@@ -1,1 +1,7 @@
 # DSA
+#reflection
+Reflection
+
+In this course, the main problem I solved was designing and implementing an efficient system to store, organize, and retrieve course information for academic advising. The project required selecting an appropriate data structure to manage course records and prerequisites while ensuring that information could be searched and displayed efficiently. Through this process, I learned that understanding data structures is essential because the choice of structure directly impacts performance, scalability, and the overall design of a software application. For the final project, I used a Binary Search Tree (BST) to organize course data and support efficient searching and sorting of courses.
+
+While completing the activities and project, I encountered challenges related to file processing, validating prerequisite data, and implementing the BST correctly. I overcame these obstacles by testing my code incrementally, debugging logic errors, and reviewing course requirements to ensure the data was loaded and processed correctly. This project expanded my approach to software design by encouraging me to think more critically about efficiency, data organization, and long-term maintainability. It also improved the way I write programs by emphasizing clear structure, modular functions, meaningful data validation, and reusable code. As a result, I now have a stronger understanding of how to create software that is maintainable, readable, and adaptable to future requirements while following sound software engineering principles.
